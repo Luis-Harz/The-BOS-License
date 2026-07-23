@@ -1,6 +1,6 @@
 # The BOS Public License (Better Open Source)
 
-**Version 1.0** | Based on the MIT License with enhanced attribution requirements.
+**Version 1.1** | Based on the MIT License with enhanced attribution requirements.
 
 ---
 
@@ -17,8 +17,8 @@ It retains all the freedom and simplicity of the standard MIT License, but adds 
 Unlike standard permissive licenses, the BOS License ensures that:
 
 1. **Original Project Backlink:** Any public fork, web-hosted repository (e.g., GitHub, GitLab), or public republication must include a visible link back to the original repository in its primary documentation (`README.md`).
-   * *Note: This applies strictly to public code distribution and forks. It does NOT restrict private, internal, offline, or execution-only use.*
-2. **Preservation of Credits:** If the original project contains a `CREDITS.txt` file, it must be kept intact and unaltered across all forks and modifications.
+   * *Note: This applies strictly to public code distribution and forks. It does NOT restrict private, internal, offline, or execution-only use. If the original Repository is privated, unavailable or deleted this requirement is waived*
+2. **Preservation of Credits:** If the original project contains a `CREDITS.txt` file, existing credits or names must be kept intact and unaltered across all forks and modifications. Of course you can add your own(yourself or new contributors) to your Project's `CREDITS.txt`.
 
 ---
 
