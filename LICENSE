@@ -1,5 +1,5 @@
 THE BOS PUBLIC LICENSE (Better Open Source)
-Version 1.1 Based on the MIT License with custom attribution terms
+Version 1.2 Based on the MIT License with custom attribution terms
 Copyright (c) 2026 [Your Name]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -13,6 +13,7 @@ The above copyright notice, this permission notice, and the additional terms
 below shall be included in all copies, forks, or substantial portions of the Software.
 
 ADDITIONAL TERMS:
+(Note: The additional terms below apply strictly to public Source Code distribution and repositories, not to compiled binaries or object code.)
 
 1. Original Project Link: Any public fork, web-hosted repository, or public 
    republication of this Software (such as on GitHub, GitLab, or similar platforms) 
