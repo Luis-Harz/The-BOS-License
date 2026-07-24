@@ -25,7 +25,7 @@ Unlike standard permissive licenses, the BOS License ensures that:
 ## How to Use the BOS License in Your Project
 
 1. Copy the full text from [`LICENSE.txt`](./LICENSE.txt) into a file named `LICENSE` or `LICENSE.txt` in the root directory of your project.
-2. Replace `[Dein Name]` with your name or copyright holder details.
+2. Replace `[Your Name]` with your name or copyright holder details.
 3. *(Optional)* Add a `CREDITS.txt` file in your root directory if you want to explicitly credit specific contributors or list your name as the main developer.
 
 ---
