@@ -15,14 +15,13 @@ below shall be included in all copies, forks, or substantial portions of the Sof
 ADDITIONAL TERMS:
 (Note: The additional terms below apply strictly to public Source Code distribution and repositories, not to compiled binaries or object code.)
 
-1. Original Project Link: Any public fork, web-hosted repository, or public 
-   republication of this Software (such as on GitHub, GitLab, or similar platforms) 
-   must contain a clearly visible and accessible link back to its immediate 
-   upstream repository in its primary documentation (e.g., the README file or main 
-   project description). This requirement applies strictly to public code distribution 
-   and repository forks; it does not apply to private, internal, offline, or 
-   execution-only use. In case the upstream repository's URL becomes invalid, 
-   deleted, private, or inaccessible, this requirement is waived.
+1. Original Project Link: Any public fork, web-hosted repository, or public republication
+   of this Software's source code must contain a clearly visible link back to its immediate
+   upstream repository. This link must be placed within the primary documentation,
+   a standard text file (such as a README.txt), or the license notice itself. This requirement
+   applies strictly to public source code distribution; it does not apply to private, internal,
+   offline, or execution-only use. In case the upstream repository's URL becomes invalid, deleted,
+   private, or inaccessible, this requirement is waived.
 
 2. Preservation of Credits: If the Software contains a CREDITS.txt file, 
    existing names and credits within this file must be preserved without removal 
