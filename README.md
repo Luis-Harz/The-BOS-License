@@ -27,7 +27,7 @@ The additional terms apply strictly to public Source Code distribution and repos
 
 ## How to Use the BOS License in Your Project
 
-1. Copy the full text from [`LICENSE.txt`](./LICENSE.txt) into a file named `LICENSE` or `LICENSE.txt` in the root directory of your project.
+1. Copy the full text from [`LICENSE.txt`](./LICENSE) into a file named `LICENSE` or `LICENSE.txt` in the root directory of your project.
 2. Replace `[Your Name]` with your name or copyright holder details.
 3. *(Optional)* Add a `CREDITS.txt` file in your root directory if you want to explicitly credit specific contributors or list your name as the main developer.
 
@@ -39,4 +39,4 @@ The additional terms apply strictly to public Source Code distribution and repos
 > 1. **Original Project Link**...
 > 2. **Preservation of Credits**..."
 
-*(For the complete legal text, see [LICENSE.txt](./LICENSE.txt))*
+*(For the complete legal text, see [LICENSE.txt](./LICENSE))*
